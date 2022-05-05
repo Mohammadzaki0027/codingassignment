@@ -1,0 +1,13 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+border: 1px solid teal;
+}
+#container a{
+    margin-left: 10px;
+}
+#container{
+    display: flex;
+   gap: 40px;
+ 
+}
